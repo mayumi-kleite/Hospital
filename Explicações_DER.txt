@@ -1,13 +1,15 @@
 HOSPITAL 
 
+- 1 Hospital realiza muitas Triagens para cada Paciente que tinha Cosulta 
+
 - 1 Paciente pode ter várias Consultas, onde 1 Médico realiza a consulta. 
 
 - Podendo haver a chance do médico solicitar vários Exames que seram feitas por 1 Paciente 
 
 - Sendo que no Exame emitirá 1 Laudo para o Médico 
 
-- A partir do Exame junto ao Laudo, o Médico pode concluir vários diagnóstico
+- A partir do Exame junto ao Laudo, 1 Médico pode concluir vários diagnóstico
 
-- Caso o Paciente queria, o Médico pode emitir vários atestados para conprovor sua ausência em algum lugar 
+- Caso o Paciente queria, 1 Médico pode emitir vários atestados para conprovor que o Paciente esteve em uma consulta  
 
 - Há circunstâncias que 1 Médico solicita várias Cirurgias para o Paciente. 
